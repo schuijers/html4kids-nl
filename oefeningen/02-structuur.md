@@ -99,3 +99,6 @@ De `hr` tag is één van de weinig tags waarbij je geen eindtag hoeft te gebruik
 
 ### Opdracht:
 Voeg een `hr` tag toe net boven de `h2` tag.
+
+<br>
+Ben je klaar? Ga dan verder met de volgende oefening: [tekst opmaken](03-tekstopmaak.md).
