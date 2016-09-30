@@ -88,9 +88,9 @@ Als je het goed gedaan hebt ziet het er nu ongeveer zo uit:
 Voeg zelf nog een tweede `p` tag toe net onder de `h2` tag. Beschrijf hierin bijvoorbeeld wat je lievelingsdier of lievelingssport is.
 
 > **Veiligheid op het internet**<br>
-> Omdat je natuurlijk nooit weet wie er je webpagina bekijkt als deze op Internet staat, moet je je altijd afvragen wat je wilt delen met
+> Omdat je natuurlijk nooit weet wie er je webpagina bekijkt, moet je je altijd afvragen wat je wilt delen met
 > een onbekende.<br>
-> Telefoonnummers, adressen en waar je op school zit met onbekenden delen is geen goed idee!
+> Het delen van elefoonnummers, adressen of de school waarop je zit is meestal geen goed idee!
 
 ## Bonus: de hr tag
 Om nog duidelijker aan te kunnen geven welke tekst bij elkaar hoort kan je naast heading tags en paragraph tags ook gebruik maken van een tag die ervoor zorgt dat er een horizontale lijn verschijnt. Dit is de `hr` tag.
