@@ -63,4 +63,4 @@ Goed. Genoeg gekletst over tags. Tijd voor actie!
 * Vervang de tekst *'Hallo HTML!'* door bijvoorbeeld *'Hallo, ik ben [je naam]'* en kijk wat er gebeurd.
 
 <br>
-Ben je klaar? Ga dan verder met de volgende oefening.
+Ben je klaar? Ga dan verder met de volgende oefening: [structuur aanbrengen](02-structuur.md).
