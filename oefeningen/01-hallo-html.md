@@ -45,12 +45,12 @@ Tags worden meestal in paren gebruikt bestaand uit een starttag (bijvoorbeeld `<
 In ons tekstbestand zie je bijvoorbeeld dat de start- en eindtags van `head` en `body` binnen de start- en eindtags van `html` staan:
 
 <pre>
-<b><html></b>
-  <head></head>
-  <body>
+<b>&lt;html&gt;</b>
+  &lt;head&gt;&lt;/head&gt;
+  &lt;body&gt;
     Hallo HTML!
-  </body>
-<b></html></b>
+  &lt;/body&gt;
+<b>&lt;/html&gt;</b>
 </pre>
 
 In principe is er geen limiet aan hoe vaak je tags binnen andere tags kan nesten. Het is alleen wel belangrijk dat je de start- en eindtags in de juiste volgorde zet. Zo moet de laatst toegevoegde starttag altijd weer als eerste afgesloten worden met een eindtag. Anders snapt de browser er niks meer van.
