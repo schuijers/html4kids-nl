@@ -29,10 +29,10 @@ Als het goed is zie je nu zoiets als dit:
 
 Gelukt? High five! :raised_hand:
 
-Het werkt wel, maar waarom? Zoals je misschien al opgevallen was staan er allerlei rare woorden en tekens in ons tekstbestand zoals `<html>`, `<head>` en `</body>`. Deze woorden zie je niet terug als je de webpagina in de browser bekijken. Zijn ze wel nodig? 
+Het werkt wel, maar waarom? Zoals je misschien al opgevallen was staan er allerlei rare woorden en tekens in ons tekstbestand zoals `<html>`, `<head>` en `</body>`. Deze woorden zie je niet terug als je de webpagina in de browser bekijkt. Zijn ze wel nodig? 
 
 ## Tags
-Het antwoord is: ja. De woorden die tussen `<` en `>` tekens staan worden *tags* genoemd. Dit is Engels voor *markeringen*. Met deze woorden vertellen we de browser hoe deze met de inhoud van ons tekstbestand om moet gaan.
+Het antwoord is: ja. De woorden die tussen `<` en `>` tekens staan worden *tags* genoemd. Het woord *tag* is Engels voor *markering*. Met tags vertellen we de browser hoe deze met de inhoud van ons tekstbestand om moet gaan.
 
 Voor onze eerste webpagina hebben we de volgende tags gebruikt:
 * `<html>` en `</html>`: hiermee vertel je de browser waar de webpagina begint en eindigt;
@@ -55,11 +55,12 @@ In ons tekstbestand zie je bijvoorbeeld dat de start- en eindtags van `head` en 
 <b>&lt;/html&gt;</b>
 </pre>
 
-In principe is er geen limiet aan hoe vaak je tags binnen andere tags kan nesten. Het is alleen wel belangrijk dat je de start- en eindtags in de juiste volgorde zet. Zo moet de laatst toegevoegde starttag altijd weer als eerste afgesloten worden met een eindtag. Anders snapt de browser er niks meer van.
+In principe is er geen limiet aan hoe vaak je tags binnen andere tags kan nesten. Het is alleen wel belangrijk dat je de start- en eindtags in de juiste volgorde zet. Zo moet de laatst toegevoegde starttag altijd weer als eerste afgesloten worden met een eindtag. Doe je dat niet, dan snapt de browser er niks meer van.
 
 Goed. Genoeg gekletst over tags. Tijd voor actie! 
 
 ## Opdracht
 * Vervang de tekst *'Hallo HTML!'* door bijvoorbeeld *'Hallo, ik ben [je naam]'* en kijk wat er gebeurd.
 
+<br>
 Ben je klaar? Ga dan verder met de volgende oefening.
