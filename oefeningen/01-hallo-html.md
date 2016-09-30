@@ -9,6 +9,7 @@ In deze oefening gaan we onze allereerste HTML-pagina (ook wel webpagina genoemd
 
 Dat is alles. Ben je klaar om te beginnen? Mooi. Daar gaan we!
 
+## Hallo HTML!
 Start de tekstverwerker en begin met een leeg bestand. Kopieer nu de volgende tekst in het bestand:
 
 ```
@@ -30,6 +31,7 @@ Gelukt? High five! :raised_hand:
 
 Het werkt wel, maar waarom? Zoals je misschien al opgevallen was staan er allerlei rare woorden en tekens in ons tekstbestand zoals `<html>`, `<head>` en `</body>`. Deze woorden zie je niet terug als je de webpagina in de browser bekijken. Zijn ze wel nodig? 
 
+## Tags
 Het antwoord is: ja. De woorden die tussen `<` en `>` tekens staan worden *tags* genoemd. Dit is Engels voor *markeringen*. Met deze woorden vertellen we de browser hoe deze met de inhoud van ons tekstbestand om moet gaan.
 
 Voor onze eerste webpagina hebben we de volgende tags gebruikt:
@@ -55,7 +57,9 @@ In ons tekstbestand zie je bijvoorbeeld dat de start- en eindtags van `head` en 
 
 In principe is er geen limiet aan hoe vaak je tags binnen andere tags kan nesten. Het is alleen wel belangrijk dat je de start- en eindtags in de juiste volgorde zet. Zo moet de laatst toegevoegde starttag altijd weer als eerste afgesloten worden met een eindtag. Anders snapt de browser er niks meer van.
 
-Goed. Genoeg gekletst over tags. Tijd voor actie!
+Goed. Genoeg gekletst over tags. Tijd voor actie! 
 
-**Opdracht:**
-* Vervang de tekst *'Hallo HTML!'* door *'Hallo, ik ben [je naam]'* en kijk wat er gebeurd.
+## Opdracht
+* Vervang de tekst *'Hallo HTML!'* door bijvoorbeeld *'Hallo, ik ben [je naam]'* en kijk wat er gebeurd.
+
+Ben je klaar? Ga dan verder met de volgende oefening.
