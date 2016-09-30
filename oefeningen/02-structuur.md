@@ -18,7 +18,7 @@ Als eerste gaan we een vetgedrukte kop aan onze webpagina toevoegen. Dit doen we
 
 Zoals je ziet wordt de tekst bij elke volgende tag kleiner. Dit komt doordat de `h1` tag de belangrijkste heading tag is en de `h6` tag de minst belangrijke.
 
-Genoeg gekletst. Laten we een paar heading tags toevoegen aan onze webpagina!
+Maar genoeg gekletst. Laten we een paar heading tags toevoegen aan onze webpagina!
 
 We beginnen met een `h1` tag. Voeg deze toe binnen de `body` tag, boven de huidige tekst:
 
@@ -95,7 +95,7 @@ Voeg zelf nog een tweede `p` tag toe net onder de `h2` tag. Beschrijf hierin bij
 ## Bonus: de hr tag
 Om nog duidelijker aan te kunnen geven welke tekst er bij elkaar hoort kan je naast heading tags en paragraph tags ook gebruik maken van een tag die ervoor zorgt dat er een horizontale lijn verschijnt. Dit is de `hr` tag.
 
-De `hr` tag is één van de weinig tags waarbij je geen eindtag hoeft te gebruiken. Dit komt doordat je geen andere tags binnen een `hr` tag kan gebruiken.
+De `hr` tag is één van de weinig tags waarbij je geen eindtag hoeft te gebruiken. Dit komt doordat je geen andere tags binnen een `hr` tag kan plaatsen.
 
 ### Opdracht:
 Voeg een tweede `hr` tag toe net boven de `h2` tag.
