@@ -77,6 +77,7 @@ Laten we eens wat tekst schuingedrukt maken, bijvoorbeeld de dingen die je leuk 
 </pre>
 
 Onze webpagina ziet er inmiddels ongeveer zo uit:
+
 ![Emphasis](https://raw.githubusercontent.com/schuijers/html4kids-nl/master/oplossingen/03b-opmaak-em.png "Emphasis")
 
 Dat begint ergens op te lijken!
