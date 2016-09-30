@@ -93,9 +93,9 @@ Voeg zelf nog een tweede `p` tag toe net onder de `h2` tag. Beschrijf hierin bij
 > Telefoonnummers, adressen en waar je op school zit met onbekenden delen is geen goed idee!
 
 ## Bonus: de hr tag
-Om nog duidelijker aan te kunnen geven welke tekst er bij elkaar hoort kan je naast heading tags en paragraph tags ook gebruik maken van een tag die ervoor zorgt dat er een horizontale lijn verschijnt. Dit is de `hr` tag.
+Om nog duidelijker aan te kunnen geven welke tekst bij elkaar hoort kan je naast heading tags en paragraph tags ook gebruik maken van een tag die ervoor zorgt dat er een horizontale lijn verschijnt. Dit is de `hr` tag.
 
 De `hr` tag is één van de weinig tags waarbij je geen eindtag hoeft te gebruiken. Dit komt doordat je geen andere tags binnen een `hr` tag kan plaatsen.
 
 ### Opdracht:
-Voeg een tweede `hr` tag toe net boven de `h2` tag.
+Voeg een `hr` tag toe net boven de `h2` tag.
