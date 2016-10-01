@@ -11,18 +11,18 @@ Met behulp van attributen kun je eigenschappen van tags beschrijven. Stel je een
 Voor het toevoegen van attributen aan tags gelden een paar simpele regels:
 * Attributen kun je alleen toevoegen aan starttags, zoals: `<p>`. Voeg je een attribuut toe aan een eindtag, dan zal deze genegeerd worden door de browser. Dat heeft dus geen zin!
 * Een attribuut bestaat uit een naam en een (vaak verplichte) waarde; 
-* De notatie is als volgt: `naam="waarde"`. Voor een leeftijd zou je dus het volgende op kunnen schrijven: `leeftijd="34"`.
+* De notatie van een attribuut is als volgt: `naam="waarde"`. Voor een leeftijd zou je dus het volgende op kunnen schrijven: `leeftijd="34"`.
 
 Als we onszelf weer even als tag zien, dan zouden we als we deze regels volgen bijvoorbeeld het volgende op kunnen schrijven: 
 ```
 <ik naam="Martijn" leeftijd="34" haarkleur="bruin"></ik>
 ```
 
-Als de `ik` tag echt zou bestaan, dan zouden we op deze manier de browser kunnen vertellen dat ik Martijn heet, 34 jaar oud ben en bruin haar heb. Zonder attributen zou die geen idee hebben wie ik ben. Misschien zou de browser dan wel denken dat ik Chris heet... 
+Als de `ik` tag echt zou bestaan, dan kunnen we op deze manier de browser vertellen dat ik Martijn heet, 34 jaar oud ben en bruin haar heb. Zonder attributen zou de browser geen flauw idee hebben wie ik ben. Misschien zou de browser dan wel denken dat ik Chris heet... 
 
-Eigenlijk zijn ze dus best wel handig hè, die attributen?
+Eigenlijk zijn ze dus best wel handig hè, die attributen.
 
-Laten we snel een echt bestaand attribuut toevoegen aan onze webpagina: het `style` attribuut!
+Laten we snel een echt bestaand attribuut aan onze webpagina toe gaan voegen: het `style` attribuut!
 
 ## Het style attribuut
 ...
